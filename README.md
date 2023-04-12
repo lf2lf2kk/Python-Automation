@@ -10,3 +10,6 @@ The script can consume the config and use the trained AI module to validate vide
 ## Json Collection And Convertion
 The script can collect the files from validation folders and convert all the json file into excel file
 
+
+## Video Convertion
+The script can convert the resolution of the videos and make automation even smoother and faster
