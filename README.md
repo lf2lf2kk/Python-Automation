@@ -13,3 +13,6 @@ The script can collect the files from validation folders and convert all the jso
 
 ## Video Convertion
 The script can convert the resolution of the videos and make automation even smoother and faster
+
+## Image Downsizing
+The script can convert the original image size to have maximum 1080px width, and the height will be downsized respecting to the original aspect ratio
